@@ -131,11 +131,11 @@ function amountOfPages(summary){
   return counter;
 }
 
-// amountOfPages(5); // 5
+amountOfPages(5); // 5
 amountOfPages(25); // 17
-// amountOfPages(1095); // 401
-// amountOfPages(185); // 97
-// amountOfPages(660); // 256
-// amountOfPages(684); // 264
-// amountOfPages(2727); // 945
-// amountOfPages(3061); // 1042
+amountOfPages(1095); // 401
+amountOfPages(185); // 97
+amountOfPages(660); // 256
+amountOfPages(684); // 264
+amountOfPages(2727); // 945
+amountOfPages(3061); // 1042
